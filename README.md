@@ -12,3 +12,8 @@ Date: 09/06/2020
  
  
 ![Graph](https://github.com/C3Suryansu/Graph-Algorithms/blob/master/BFS_traversal.jpg)
+
+
+Date: 13/06/2020
+      Added DFS Traversal code. Link:- https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+      While BFS uses Queue and FIFO methodoloy, DFS uses Stack and LIFO methodology.
